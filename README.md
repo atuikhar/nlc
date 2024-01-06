@@ -2,7 +2,7 @@
 
 ```
 Copyright (c) 2023-present Ngariching Living Center. All Rights Reserved.
-Proprietary and confidential information of Nourriture.
+Proprietary and confidential information of Ngariching Living Center.
 Disclosure, use, or reproduction without written authorization of Ngariching Living Center
  is prohibited.
 ```
