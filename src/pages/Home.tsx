@@ -34,7 +34,7 @@ const FluidWrapper = styled(Box)(({ theme }) => ({
   flexDirection: 'column',
   padding: theme.spacing(0, 0, 5, 0),
   [theme.breakpoints.up('xl')]: {
-    // width: '70%',
+    width: '70%',
   },
   [theme.breakpoints.down('md')]: {
     minHeight: '30dvh',

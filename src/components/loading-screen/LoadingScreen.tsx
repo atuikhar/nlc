@@ -19,7 +19,7 @@ const StyledRoot = styled('div')(({ theme }) => ({
   display: 'flex',
   alignItems: 'center',
   justifyContent: 'center',
-  backgroundColor: '#001C2E',
+  backgroundColor: 'white',
 }));
 
 // ----------------------------------------------------------------------
